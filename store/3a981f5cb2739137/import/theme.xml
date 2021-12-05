@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Imported Assets" cc_theme_id="import">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
+</char>
+<prop id="logo4s.png" name="GA4SR Logo Watermark" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ytmp3free.cc_goanimate-soundtrack-rock-roll-youtubemp3free.org.mp3" name="GoAnimate Scary (Old)" subtype="soundeffect" duration="192915" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ytmp3free.cc_goanimate-soundtrack-rock-roll-youtubemp3free.org.mp3" name="GoAnimate Rock And Roll (Old)" subtype="bgmusic" duration="192915" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ytmp3free.cc_goanimate-sound-effect-scary-youtubemp3free.org.mp3" name="GoAnimate Scary" subtype="soundeffect" duration="3604" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ytmp3free.cc_10-years-of-goanimate-grounded-logo-copyright-free-youtubemp3free.org.mp3" name="10 Years Of GoAnimate Grounded Intro!" subtype="bgmusic" duration="35552" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ytmp3free.cc_windows-xp-installation-music-youtubemp3free.org.mp3" name="Windows XP Installation Music" subtype="bgmusic" duration="324730" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+
+</theme>
